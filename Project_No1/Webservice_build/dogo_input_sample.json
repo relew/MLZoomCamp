@@ -1,0 +1,11 @@
+input_json = {"animal_type":"dog",
+              "intake_age_months":"1.0",
+              "date_income":"2022-10-15",
+              "time_income":"12:20:00",
+              "intake_type":"stray",
+              "intake_condition": "normal",
+              "income_sex":"male",
+              "income_neutered":"intact",
+              "animal_breed": "pitbull",
+              "animal_color": "black/white"
+            }
